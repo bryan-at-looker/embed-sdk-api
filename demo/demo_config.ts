@@ -2,7 +2,7 @@
 // If your instance uses a default port (https://mycompany.looker.com) then
 // you should not include a port number here
 
-export const lookerHost = 'https://comcastdemo.looker.com'
+export const lookerHost = 'https://customer.looker.com'
 // export const lookerHost = 'mycompany.looker.com'
 
 // A dashboard that the user can see. Set to 0 to disable dashboard demo.
